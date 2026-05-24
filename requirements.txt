@@ -5,3 +5,6 @@ seaborn
 scikit-learn
 nltk
 wordcloud
+fastapi
+uvicorn[standard]
+python-multipart
